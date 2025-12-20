@@ -10,7 +10,8 @@
 .project
 .pydevproject
 .pytest_cache/
-/.vscode
+.vscode/
+.idea/
 /.mkosi-*
 /SHA256SUMS
 /SHA256SUMS.gpg
